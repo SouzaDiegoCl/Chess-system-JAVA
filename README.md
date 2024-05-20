@@ -16,4 +16,6 @@ tratamento de exceções, criação e manipulação de classes, entre outros con
 - _IDE utilizada:_ **Eclipse**;
 
 ## Exemplo - Execução do projeto:  
-![Screenshot](/src/img/printGame.png)
+<p align="center">
+      <img src="/src/img/printGame.png"/>
+</p>
